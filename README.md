@@ -1,24 +1,47 @@
-# TryHackMe Writeups
+# TryHackMe Technical Writeups
 
-This repository contains structured technical reports documenting selected TryHackMe rooms.
+This repository contains structured technical documentation of selected TryHackMe rooms.
 
-The focus is on methodology, technical reasoning, and defensive considerations rather than step-by-step flag disclosure.
+The purpose of these writeups is to demonstrate:
+- Methodical security analysis
+- Technical reasoning
+- Controlled exploitation within lab scope
+- Defensive considerations
 
-## Scope & Ethics
-All activities were conducted within the TryHackMe lab environment.  
-No real-world systems were targeted.
+All activities were conducted exclusively within the TryHackMe environment.
 
-## Structure
+---
+
+## Repository Structure
+
 Rooms are categorized by difficulty:
+
 - easy/
 - medium/
 - hard/
 
-Each room contains:
-- A technical report
-- Sanitized scan results
-- Supporting notes (where relevant)
+Each room folder contains:
+- A structured technical report (`report.md`)
+- Sanitized scan outputs
+- Supporting notes
+- Screenshots (where relevant)
+
+---
+
+## Selected Rooms
+
+### Easy
+- All in One
+
+### Medium
+- CTF Collection Vol.2
+
+### Hard
+- Rabbit Hole
+
+---
 
 ## Methodology
-A standardized documentation structure is used across all reports.
+
+A standardized methodology is applied across all assessments.  
 See `methodology.md` for details.
