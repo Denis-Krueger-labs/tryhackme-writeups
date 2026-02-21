@@ -1,4 +1,4 @@
-# Reflection – Lessons Learned from CTF Collection Vol.2
+# Reflection - Lessons Learned from CTF Collection Vol.2
 
 CTF Collection Vol.2 was an extremely valuable learning experience, but it presented unique challenges when considering it as a structured portfolio write-up.
 
